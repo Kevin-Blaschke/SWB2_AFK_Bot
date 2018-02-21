@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <AutoInject>false</AutoInject>
+  <EmulateController>false</EmulateController>
+  <ShowConsole>true</ShowConsole>
+  <StartupFile>C:\Users\Kevbo\source\repos\SWB2\SWB2\bin\Debug\SWB2.dll</StartupFile>
+</Settings>
